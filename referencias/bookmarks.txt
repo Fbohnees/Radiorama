@@ -1,3 +1,4 @@
 https://nextion.tech/datasheets/nx4832f035/	- Human Machine Interface （HMI）
 http://mini-whip.de/				- Malahit DSP
 https://vk6ysf.com/projects.htm 		- Antennas, Baluns, etc.
+https://sam-stroitel.com/prostaya-samodelnaya-antenna-dlya-priyoma-cifrovogo-tv-razmery-foto-i-opisanie.html  Antenas (esquemas)
