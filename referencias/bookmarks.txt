@@ -4,3 +4,4 @@ https://vk6ysf.com/projects.htm 		- Antennas, Baluns, etc.
 https://sam-stroitel.com/prostaya-samodelnaya-antenna-dlya-priyoma-cifrovogo-tv-razmery-foto-i-opisanie.html  Antenas (esquemas)
 https://www.kn9b.us/j-pole   - Calculadora J-Pole
 http://www.radioamatoripeligni.it/i6ibe/loopflat/loopflat.htm  - Receita de LoopFlat
+https://www.nonstopsystems.com/radio/frank_radio_antenna_magloop.htm - Antena Loop (teoria e projeto)
