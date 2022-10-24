@@ -6,3 +6,4 @@ https://www.kn9b.us/j-pole   - Calculadora J-Pole
 http://www.radioamatoripeligni.it/i6ibe/loopflat/loopflat.htm  - Receita de LoopFlat
 https://www.nonstopsystems.com/radio/frank_radio_antenna_magloop.htm - Antena Loop (teoria e projeto)
 https://officinahf.jimdofree.com/antenne-hf-mf/hf-loop-magnetica-da-interno/ - antenas & mais antenas
+https://www.qsl.net/py4zbz/antenas/magloop.htm - Antenas magnéticas Loop - teoria.
