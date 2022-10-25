@@ -7,3 +7,4 @@ http://www.radioamatoripeligni.it/i6ibe/loopflat/loopflat.htm  - Receita de Loop
 https://www.nonstopsystems.com/radio/frank_radio_antenna_magloop.htm - Antena Loop (teoria e projeto)
 https://officinahf.jimdofree.com/antenne-hf-mf/hf-loop-magnetica-da-interno/ - antenas & mais antenas
 https://www.qsl.net/py4zbz/antenas/magloop.htm - Antenas magnéticas Loop - teoria.
+https://docs.lightningmaps.org/doku.php?id=en:hardware:antennas:h-field:loop - Antena loop - teoria
