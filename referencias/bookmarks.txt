@@ -10,3 +10,4 @@ https://www.qsl.net/py4zbz/antenas/magloop.htm - Antenas magnéticas Loop - teor
 https://docs.lightningmaps.org/doku.php?id=en:hardware:antennas:h-field:loop - Antena loop - teoria
 https://www.n1fd.org/2022/04/11/magnetic-loop-antenna/ - Antena loop - teoria
 https://www.nonstopsystems.com/radio/frank_radio_antenna_magloop.htm - Antena loop (*proporções)
+http://webclass.org/k5ijb/antennas/Small-magnetic-loops-K5IJB.htm - Mag loop Antena
