@@ -8,3 +8,4 @@ https://www.nonstopsystems.com/radio/frank_radio_antenna_magloop.htm - Antena Lo
 https://officinahf.jimdofree.com/antenne-hf-mf/hf-loop-magnetica-da-interno/ - antenas & mais antenas
 https://www.qsl.net/py4zbz/antenas/magloop.htm - Antenas magnéticas Loop - teoria.
 https://docs.lightningmaps.org/doku.php?id=en:hardware:antennas:h-field:loop - Antena loop - teoria
+https://www.n1fd.org/2022/04/11/magnetic-loop-antenna/ - Antena loop - teoria
